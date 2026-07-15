@@ -50,9 +50,11 @@ Motivated entry-level developer with foundational skills in PHP, Java, HTML, CSS
 - Email: hammanm@cput.ac.za  
 - Phone: 0833819056
 
-## 🎥 mock interview
+## 🎥 Mock Interview
 
-[▶️ Watch on YouTube](https://youtube.com/shorts/OkgG3B44tgU?si=PhRmJXt-NLqzgqd4)
+Click the image below to watch my mock interview.
+
+[![Mock Interview](https://img.youtube.com/vi/OkgG3B44tgU/hqdefault.jpg)](https://www.youtube.com/shorts/OkgG3B44tgU)
 
 ## 1. Reflection on Coding in Markdown
 
