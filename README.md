@@ -118,8 +118,8 @@ Our team charter says we work as one group with shared responsibility. My assign
 
 ### Evidence
 
-<!-- ADD YOUR TEAM ROLES / CHARTER SCREENSHOT HERE: save it as images/team-charter.png, delete this comment line and the next one, then remove the arrows around the next line -->
-<!-- ![Team charter and roles](images/team-charter.png) -->
+
+[Team charter and roles](images/team-charter.jpeg)
 
 Team members' roles in the charter, and my role as Backend Designer.
 
@@ -174,8 +174,8 @@ The Product Backlog helped us decide what UniMarket needed first and what could 
 | 8 | Reports and admin dashboard (suspend users, review reports) | Done |
 | 9 | Online payments (PayFast or Yoco) | Left out for now |
 
-<!-- ADD YOUR TRELLO BOARD SCREENSHOT HERE: save it as images/trello-board.png, then remove the arrows around the next line -->
-<!-- ![UniMarket Trello board](images/trello-board.png) -->
+
+[UniMarket Trello board](images/trello-board.jpeg)
 
 - [View Logbook: 28–31 July 2026](logbooks/Xolile_Ludidi_Logbook_28-31_July_2026.pdf)
 - [View Logbook: 4–7 August 2026](logbooks/Xolile_Ludidi_Logbook_4-7_August_2026.pdf)
